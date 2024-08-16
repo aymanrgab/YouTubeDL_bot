@@ -5,7 +5,7 @@ import tempfile
 import aiohttp
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
-from youtube_search import YoutubeSearch
+from youtube_search2 import YoutubeSearch
 import yt_dlp
 
 TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN')

@@ -1,4 +1,4 @@
 python-telegram-bot
-youtube-search-python
+youtube-search2
 yt_dlp
 aiohttp
