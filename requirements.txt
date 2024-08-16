@@ -1,0 +1,4 @@
+python-telegram-bot
+youtube-search-python
+yt_dlp
+aiohttp
